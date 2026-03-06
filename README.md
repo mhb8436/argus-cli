@@ -24,9 +24,11 @@ API 보안 취약점 점검 도구. Burp Suite와 유사한 기능을 명령줄(
 
 | OS | Architecture | 파일 |
 |----|-------------|------|
-| Windows | x86_64 | `argus-cli-windows-amd64.exe` |
-| macOS | Apple Silicon (M1/M2/M3/M4) | `argus-cli-darwin-arm64` |
-| macOS | Intel | `argus-cli-darwin-amd64` |
+| Windows | x86_64 | `argus-cli-windows-amd64.zip` |
+| macOS | Apple Silicon (M1/M2/M3/M4) | `argus-cli-darwin-arm64.tar.gz` |
+| macOS | Intel | `argus-cli-darwin-amd64.tar.gz` |
+| Linux | x86_64 | `argus-cli-linux-amd64.tar.gz` |
+| Linux | ARM64 | `argus-cli-linux-arm64.tar.gz` |
 
 ### macOS / Linux 설치
 
